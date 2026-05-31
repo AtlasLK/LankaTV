@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "build": 1,
   "forceUpdate": true,
-  "downloadUrl": "https://test.app/downloads/lankatv-latest.apk",
+  "downloadUrl": "https://github.com/AtlasLK/LankaTV/releases/download/1.0.0/LankaTv-v1.0.0-1.apk",
   "releaseNotes": "Bug fixes and performance improvements. Update required for continued use. :p",
   "updateAvailable": true
 }
