@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "forceUpdate": true,
+  "downloadUrl": "https://test.app/downloads/lankatv-latest.apk",
+  "releaseNotes": "Bug fixes and performance improvements. Update required for continued use. :p",
+  "updateAvailable": true
+}
