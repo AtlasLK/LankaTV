@@ -1,6 +1,6 @@
 # LankaTV
 
-A Tivimate-style IPTV player for Android TV / Google TV with Electronic Program Guide (EPG), catchup TV, and D-pad remote navigation. Built with Flutter.
+A IPTV player for Android TV / Google TV with Electronic Program Guide (EPG), catchup TV, and TV remote navigation. Built with Flutter.
 
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/AtlasLK/LankaTV/releases/latest)
 [![Website](https://img.shields.io/badge/Website-lankatv.vercel.app-green)](https://lankatv.vercel.app)
